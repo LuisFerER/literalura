@@ -151,4 +151,16 @@ git clone <URL_DEL_REPOSITORIO>
 ## 🌐 Fuente de datos
 
 - [Gutendex API](https://gutendex.com/)
+---
 
+## ❤️ Agradecimientos
+
+Este proyecto fue realizado como parte del programa de formación en Java con **Alura Latam** y **Oracle Next Education (ONE)**.
+
+> **Gracias al equipo de Alura Latam y Oracle por esta gran oportunidad de aprendizaje.**
+
+---
+
+## 📜 Licencia
+
+Este proyecto está desarrollado con fines educativos. Actualmente no posee una licencia definida.
